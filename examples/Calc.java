@@ -1,4 +1,4 @@
-package src;
+package examples;
 public class Calc {
     public static void main(String[] args) {
         // don't activate inline suggestions
